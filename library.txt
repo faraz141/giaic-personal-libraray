@@ -1,0 +1,9 @@
+[
+  {
+    "title": "daffodils",
+    "author": "faraz",
+    "year": 2004,
+    "genre": "fun",
+    "read": true
+  }
+]
